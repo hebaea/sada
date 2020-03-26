@@ -64,7 +64,7 @@
                         <a class="page-scroll" href="#about">حولنا</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="index.html">الرئيسية</a>
+                        <a class="page-scroll" href="index.php">الرئيسية</a>
                     </li>
                 </ul>
             </div>
