@@ -167,7 +167,7 @@
             <div class="no-gutter">
                 <div class="col-sm-6 fix-right">
                     <div class="box-image">
-                        <img class="media__image " src="images/14.jpg">
+                        <img class="media__image " src="images/4.JPG">
                     </div>
                 </div>
                 <div class="col-sm-6">
@@ -188,7 +188,7 @@
         <section class="box-content box-3" id="gallery">
             <div class="no-gutter">
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a href="#gallery" class="portfolio-box">
                         <img src="images/5.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -203,7 +203,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a href="#gallery" class="portfolio-box">
                         <img src="images/6.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -218,7 +218,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a href="#gallery" class="portfolio-box">
                         <img src="images/7.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -233,7 +233,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a href="#gallery" class="portfolio-box">
                         <img src="images/8.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -248,7 +248,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a href="#gallery" class="portfolio-box">
                         <img src="images/9.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -263,7 +263,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
+                    <a href="#gallery" class="portfolio-box">
                         <img src="images/10.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -295,7 +295,7 @@
                             <h2>أنشطتنا</h2>
                             <span><br></span>
                         </div>
-                        <p>•تقديم المساعدات الإنسانية للمحتاجين.<br> •إقامة وأعطاء محاضرات توعوية وتثقيفية بشكل مستمر.<br> •دعم الإدارات المحلية البيئية.<br> •دعم جهاز مكافحة الهجر الغير شرعية (دعم المهاجرين).<br>
+                        <p>•تقديم المساعدات الإنسانية للمحتاجين.<br> •إقامة وأعطاء محاضرات توعوية وتثقيفية بشكل مستمر.<br> •دعم الإدارات المحلية البيئية.<br> •دعم جهاز مكافحة الهجره الغير شرعية (دعم المهاجرين).<br>
                         </p>
                     </div>
                 </div>
@@ -308,7 +308,7 @@
             <div class="no-gutter">
                 <div class="col-sm-6 bg-3">
                     <div class="box-image">
-                        <img class="media__image " src="images/20.jpg">
+                        <img class="media__image " src="images/18.jpg"> 
                     </div>
                 </div>
                 <div class="col-sm-6 bg-0">
