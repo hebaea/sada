@@ -1,6 +1,6 @@
 /* ==== Google font ==== */
 
-@import url('https://fonts.googleapis.com/css?family=Lateef&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
 
 /* ---------------------------------------------------------------------------- */
 
@@ -11,7 +11,7 @@
 /* ---------------------------------------------------------------------------- */
 
 body {
-    font-family: 'Lateef', cursive;
+    font-family: 'Tajawal', sans-serif;
     color: #666;
     background-color: #fff;
     font-size: 20px;
@@ -334,7 +334,7 @@ header {
     font-size: 60px;
     color: #fff;
     text-transform: uppercase;
-    font-family: 'Lateef', cursive;
+    font-family: 'Tajawal', sans-serif;
     display: inline-block;
     color: #fff;
 }
@@ -391,7 +391,7 @@ header {
 .box-content {}
 
 .box-content .heading {
-    font-family: 'Lateef', cursive;
+    font-family: 'Tajawal', sans-serif;
     margin-bottom: 30px;
 }
 
@@ -404,13 +404,13 @@ header {
 }
 
 .box-content .heading span {
-    font-family: 'Lateef', cursive;
+    font-family: 'Tajawal', sans-serif;
     font-size: 30px;
     line-height: 1.3;
 }
 
 .box-content .heading .info {
-    font-family: 'Lateef', cursive;
+    font-family: 'Tajawal', sans-serif;
 }
 
 .box-content .heading .info a {
@@ -538,7 +538,7 @@ header {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     padding: 0 15px;
-    font-family: 'Lateef', cursive;
+    font-family: 'Tajawal', sans-serif;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
@@ -639,7 +639,7 @@ footer .quick-link li:last-child {
 
 footer .quick-link li a:before {
     content: "";
-    font-family: 'Lateef', cursive;
+    font-family: 'Tajawal', sans-serif;
     left: 0;
     line-height: 1;
     margin-top: -5px;
@@ -675,7 +675,7 @@ footer .quick-link li a:hover {
 }
 
 footer .footer-heading {
-    font-family: 'Lateef', cursive;
+    font-family: 'Tajawal', sans-serif;
     margin-bottom: 30px;
 }
 
